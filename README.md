@@ -1,2 +1,6 @@
 # gitskills
-Creating a new branch is quick & happy;
+<<<<<<< HEAD
+
+=======
+Creating a new branch is quick and simple;
+
